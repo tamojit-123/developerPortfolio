@@ -1,0 +1,140 @@
+.main {
+  width: 90%;
+  padding: 20px 10px;
+  margin: 4rem auto 0;
+}
+.greet-main {
+  width: 90%;
+  padding: 20px 10px;
+  margin: 2rem auto 0;
+}
+
+.gretting-main {
+  width: 90%;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
+
+.greeting-main {
+  display: flex;
+}
+
+.greeting-main > * {
+  flex: 1;
+  margin-bottom: 30px;
+}
+.button-greeting-div {
+  display: flex;
+  margin-top: 20px;
+}
+
+.greeting-text {
+  margin-top: 30px;
+  font-size: 70px;
+  line-height: 1.1;
+  font-family: "Google Sans Bold", serif;
+}
+
+.greeting-nickname {
+  font-size: 80px;
+  line-height: 0;
+  font-family: "Google Sans Bold", serif;
+}
+
+.greeting-text-p {
+  font-size: 40px;
+  line-height: 40px;
+  margin-right: 40px;
+  font-family: "Google Sans Medium", serif;
+}
+
+.greeting-image-div > * {
+  max-width: 100%;
+  height: auto;
+  margin-left: 180px;
+  margin-top: 90px;
+}
+
+.wave-emoji {
+  animation-duration: 1.8s;
+  animation-iteration-count: infinite;
+  animation-name: wave;
+  display: inline-block;
+  transform-origin: 70% 70%;
+}
+
+@keyframes wave {
+  0% {
+    transform: rotate(0deg);
+  }
+  10% {
+    transform: rotate(-10deg);
+  }
+  20% {
+    transform: rotate(12deg);
+  }
+  30% {
+    transform: rotate(-10deg);
+  }
+  40% {
+    transform: rotate(9deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+.image {
+  text-align: right;
+  flex: 20%;
+  height: auto;
+  border-radius: 50%;
+  border: 0.5rem solid;
+  width: 100%;
+  max-width: 50%;
+  box-shadow: rgba(0, 0, 0, 1) 0 30px 30px -30px;
+  transition: all 0.3s ease-out;
+  margin-right: auto;
+}
+
+/* Media Query */
+@media (max-width: 1380px) {
+  .greeting-text {
+    font-size: 50px;
+  }
+  .greeting-text-p {
+    font-size: 20px;
+  }
+}
+@media (max-width: 768px) {
+  .button-greeting-div {
+    justify-content: space-around;
+  }
+  .greeting-text {
+    font-size: 30px;
+    margin-top: 0;
+    text-align: center;
+  }
+  .greeting-nickname {
+    font-size: 25px;
+    text-align: center;
+  }
+  .greeting-text-p {
+    font-size: 16px;
+    margin-right: 0;
+    line-height: normal;
+    text-align: center;
+  }
+  .greeting-main {
+    display: block;
+  }
+
+  .portfolio-repo-btn-div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+}

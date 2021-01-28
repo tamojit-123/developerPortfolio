@@ -1,0 +1,8 @@
+.github
+images
+node_modules
+build
+public
+*.json
+.idea
+.vscode

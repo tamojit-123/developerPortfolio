@@ -1,0 +1,30 @@
+.dev-icons {
+    padding-left: 0;
+    list-style: none;
+    font-size: 3rem;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+}
+
+.badge-logo {
+    width: 100px;
+    height: 100px;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 60px 50px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 50%;
+}
+
+.competitive-sites-inline {
+    display: inline-block;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-family: "Google Sans Regular", serif;
+}
+
+.competitive-sites-inline > i {
+    color: #868e96;
+}
+
+.competitive-sites-inline > i:hover {
+    color: #645beb;
+}

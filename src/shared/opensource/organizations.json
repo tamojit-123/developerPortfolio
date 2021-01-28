@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "login": "twbs",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2918581?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "airbnb",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/698437?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "firebase",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1335026?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "github",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/9919?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "StudyMatrix",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/76700915?v=4",
+      "__typename": "Organization"
+    }
+  ]
+}

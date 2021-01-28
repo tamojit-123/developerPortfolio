@@ -1,0 +1,22 @@
+.dev-icons-languages {
+  padding-left: 0;
+  list-style: none;
+  font-size: 2rem;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: right;
+}
+
+.software-skill-inline-languages {
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 0px;
+  font-family: "Google Sans Regular", serif;
+}
+
+@media (max-width: 768px) {
+  .software-skill-inline-languages {
+    margin-right: 10px;
+    margin-bottom: 0;
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "id": "MDU6SXNzdWU3ODgzNjA1ODc=",
+      "closed": false,
+      "title": "one of the file is not opening",
+      "createdAt": "2021-01-18T15:30:03Z",
+      "url": "https://github.com/tamojit-123/Credit-Card-Fraud-Detection/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Credit-Card-Fraud-Detection",
+        "url": "https://github.com/tamojit-123/Credit-Card-Fraud-Detection",
+        "owner": {
+          "login": "tamojit-123",
+          "avatarUrl": "https://avatars1.githubusercontent.com/u/40804626?u=99b413905d6c7183a4ca50c16b4b6f9c7b6d9b8a&v=4",
+          "url": "https://github.com/tamojit-123"
+        }
+      }
+    }
+  ],
+  "open": 1,
+  "closed": 0,
+  "totalCount": 1
+}
