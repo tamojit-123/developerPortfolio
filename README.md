@@ -171,6 +171,8 @@ it will directly open `home` rather than animating logo `splash` screen. - If yo
 
 ## Themes 🟪🟦🟩🟨🟧🟥
 
+![Untitled design](https://user-images.githubusercontent.com/40804626/106268965-d88e2780-6251-11eb-8a4e-3a85dbf5c342.png)
+
 - You can take a look at `src/theme.js` file where all available themes are mentioned with respective color codes.
 
 ***Available Themes:***
