@@ -17,6 +17,16 @@
         "maintenance",
         "blog"
       ]
+    },
+    {
+      "login": "ImgBotApp",
+      "name": "Imgbot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31427850?v=4",
+      "profile": "https://imgbot.net",
+      "contributions": [
+        "review",
+        "tool"
+      ]
     }
   ],
   "contributorsPerLine": 7,
