@@ -27,6 +27,15 @@
         "review",
         "tool"
       ]
+    },
+    {
+      "login": "rattlecoder123",
+      "name": "Rattle Coder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22822936?v=4",
+      "profile": "http://tamojit.wixsite.com/mymusicmrtamojit",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
