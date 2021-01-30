@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <p align="center">  
   <img src="images/banner.gif" align="center" />  
@@ -307,6 +307,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://tamojitdas.netlify.app"><img src="https://avatars.githubusercontent.com/u/40804626?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tamojit Das</b></sub></a><br /><a href="https://github.com/tamojit-123/developerPortfolio/commits?author=tamojit-123" title="Code">💻</a> <a href="#design-tamojit-123" title="Design">🎨</a> <a href="https://github.com/tamojit-123/developerPortfolio/commits?author=tamojit-123" title="Documentation">📖</a> <a href="#maintenance-tamojit-123" title="Maintenance">🚧</a> <a href="#blog-tamojit-123" title="Blogposts">📝</a></td>
     <td align="center"><a href="https://imgbot.net"><img src="https://avatars.githubusercontent.com/u/31427850?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Imgbot</b></sub></a><br /><a href="https://github.com/tamojit-123/developerPortfolio/pulls?q=is%3Apr+reviewed-by%3AImgBotApp" title="Reviewed Pull Requests">👀</a> <a href="#tool-ImgBotApp" title="Tools">🔧</a></td>
+    <td align="center"><a href="http://tamojit.wixsite.com/mymusicmrtamojit"><img src="https://avatars.githubusercontent.com/u/22822936?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rattle Coder</b></sub></a><br /><a href="https://github.com/tamojit-123/developerPortfolio/commits?author=rattlecoder123" title="Documentation">📖</a></td>
   </tr>
 </table>
 
