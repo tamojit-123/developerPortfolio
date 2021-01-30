@@ -1,4 +1,7 @@
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 <p align="center">  
   <img src="images/banner.gif" align="center" />  
 </p>  
@@ -291,3 +294,23 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 - Some Design and Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio) & [Ashutosh's Software Developer Master Portfolio](https://github.com/ashutosh1919/masterPortfolio).
 - The Logo and designs is inspired from [LottieFile](https://lottiefiles.com/) & [Figma](https://www.figma.com/files/recent).
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://tamojitdas.netlify.app"><img src="https://avatars.githubusercontent.com/u/40804626?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tamojit Das</b></sub></a><br /><a href="https://github.com/tamojit-123/developerPortfolio/commits?author=tamojit-123" title="Code">💻</a> <a href="#design-tamojit-123" title="Design">🎨</a> <a href="https://github.com/tamojit-123/developerPortfolio/commits?author=tamojit-123" title="Documentation">📖</a> <a href="#maintenance-tamojit-123" title="Maintenance">🚧</a> <a href="#blog-tamojit-123" title="Blogposts">📝</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
