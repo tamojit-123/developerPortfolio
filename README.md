@@ -41,7 +41,7 @@ git@2.17.1 or higher
 
 ```BASH
 1) BUILD IMAGE : docker build -t developersportfolio:latest .
-2) RUN IMAGE: docker run -t -p 3000:3000 developersportfolio:latest
+2) RUN IMAGE : docker run -t -p 3000:3000 developersportfolio:latest
 ```
 
 ## Sections 📝
