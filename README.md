@@ -174,6 +174,7 @@ npm start
 it will directly open `home` rather than animating logo `splash` screen. - If you design your logo in future, then edit the files in `./src/components/Loader` and then revert `isSplash` to `true` in `src/portfolio.js`.
 
 ## Themes 🟪🟦🟩🟨🟧🟥
+![gif](https://user-images.githubusercontent.com/40804626/106269537-a0d3af80-6252-11eb-9a2e-69a6b2a2f822.gif)
 
 - You can take a look at `src/theme.js` file where all available themes are mentioned with respective color codes.
 
