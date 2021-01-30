@@ -32,14 +32,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer or use [Docker](https://www.docker.com/products/docker-desktop).
 
-```
+```BASH
 node@v10.16.0 or higher
 npm@6.9.0 or higher
 git@2.17.1 or higher
 ```
 ### Docker Commands
 
-```
+```BASH
 1) BUILD IMAGE : docker build -t developersportfolio:latest .
 2) RUN IMAGE: docker run -t -p 3000:3000 developersportfolio:latest
 ```
