@@ -241,6 +241,7 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 **Option 3 (Netflify deployment):**  
 After push the code to the github repository.
 You could also host directly with Netlify by linking your own repository.
+
 [![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tamojit-123/developerPortfolio)
 
 **->** *Recommendation* Easy Process
