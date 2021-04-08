@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6cd7926.chunk.css",
+    "main.js": "/static/js/main.e8aebb8f.chunk.js",
+    "main.js.map": "/static/js/main.e8aebb8f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a4809f8f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a4809f8f.js.map",
+    "static/js/2.7a753252.chunk.js": "/static/js/2.7a753252.chunk.js",
+    "static/js/2.7a753252.chunk.js.map": "/static/js/2.7a753252.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a6cd7926.chunk.css.map": "/static/css/main.a6cd7926.chunk.css.map",
+    "static/js/2.7a753252.chunk.js.LICENSE.txt": "/static/js/2.7a753252.chunk.js.LICENSE.txt",
+    "static/media/Accenture-Logo.png": "/static/media/Accenture-Logo.25dc2e93.png",
+    "static/media/index.css": "/static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/DataScience.png": "/static/media/DataScience.5e9cd185.png",
+    "static/media/MTA.png": "/static/media/MTA.eb68f80d.png",
+    "static/media/MachineLearning.png": "/static/media/MachineLearning.6e948074.png",
+    "static/media/Python.png": "/static/media/Python.fd2ea00e.png",
+    "static/media/awign.png": "/static/media/awign.4433b061.png",
+    "static/media/aws.jpg": "/static/media/aws.d1944e96.jpg",
+    "static/media/all.css": "/static/media/fa-solid-900.d93bcbbb.eot",
+    "static/media/gcp_logo.png": "/static/media/gcp_logo.8b001bc0.png",
+    "static/media/gcpskill.png": "/static/media/gcpskill.6923cdd6.png",
+    "static/media/github_logo.png": "/static/media/github_logo.f2410edc.png",
+    "static/media/ibm_logo.png": "/static/media/ibm_logo.cfef4220.png",
+    "static/media/microsoft.jpg": "/static/media/microsoft.7c85c74a.jpg",
+    "static/media/nationalit.png": "/static/media/nationalit.baf7186e.png",
+    "static/media/niit.png": "/static/media/niit.2da363f6.png",
+    "static/media/pcs.jpg": "/static/media/pcs.91f1cb89.jpg",
+    "static/media/tamojit.svg": "/static/media/tamojit.df8e8bc0.svg",
+    "static/media/tamotrans.png": "/static/media/tamotrans.2465b869.png",
+    "static/media/undraw_version_control_9bpv.svg": "/static/media/undraw_version_control_9bpv.8f428a36.svg",
+    "static/media/ungineering.png": "/static/media/ungineering.c01c1b09.png",
+    "static/media/university.png": "/static/media/university.4ce8188b.png",
+    "static/media/wave_Small3.gif": "/static/media/wave_Small3.f4ae3552.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4809f8f.js",
+    "static/js/2.7a753252.chunk.js",
+    "static/css/main.a6cd7926.chunk.css",
+    "static/js/main.e8aebb8f.chunk.js"
+  ]
+}
